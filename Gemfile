@@ -20,6 +20,7 @@ gem 'simple_form'
 gem 'high_voltage'
 gem 'gibbon'
 group :development do
-  gem 'better_errors'
+#gem 'better_errors'
   gem 'quiet_assets'
 end
+
